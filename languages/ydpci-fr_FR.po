@@ -1,0 +1,47 @@
+# YD PREVENT COMMENT IMPERSONATION TEXT.
+# Copyright (C) 2011 yann.com
+# This file is distributed under the same license as the YD Prevent Comment Impersonation package.
+# FIRST AUTHOR <yann@abc.fr>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YD Profile Visitor Tracker Text\n"
+"POT-Creation-Date: 2011-03-30 18:03+0000\n"
+"PO-Revision-Date: 2011-03-30 18:24+0100\n"
+"Last-Translator: Yann Dubois <yann@abc.fr>\n"
+"Language-Team: Y.Dubois <yann@abc.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: yd-prevent-comment-impersonation.php:50
+msgid "You cannot post a comment using the identity or email of a registered user of this site."
+msgstr "Vous ne pouvez pas poster de commentaire en utilisant l'identifiant ou l'adresse e-mail d'un utilisateur enregistré."
+
+#: yd-prevent-comment-impersonation.php:53
+msgid "If you are the usual user of this identity, please %s click here to connect %s."
+msgstr "Si vous êtes l'utilisateur habituel de cet identifiant, veuillez %s vous connecter en cliquant ici %s."
+
+#: yd-prevent-comment-impersonation.php:56
+msgid "Otherwise, please %s go back %s and choose another identity to post your comment."
+msgstr "Dans le cas contraire, vous pouvez %s revenir en arrière %s et choisir un autre identifiant."
+
+#: yd-prevent-comment-impersonation.php:59
+msgid "To prevent other visitors from using your personal identifier, you can %s register here to create a personal account %s."
+msgstr "Pour garantir que votre identifiant personnel ne soit pas utilisé par quelqu'un d'autre, vous pouvez %s créer un compte personnel en vous inscrivant ici %s."
+
+#: yd-prevent-comment-impersonation.php:62
+msgid "To avoid having to re-type your password on each visit of the site, consider checking the %s \"remember me\" %s checkbox located right under the %s registration form %s."
+msgstr "Pour ne pas avoir à entrer votre mot de passe à chaque visite du site, pensez à cocher la case %s \"se souvenir de moi\" %s, située juste en-dessous du %s formulaire de connexion %s."
+
+#: yd-prevent-comment-impersonation.php:65
+msgid "(tick that checkbox only if you connect from home or from your personal computer, don't check it if you are connecting from a public space such as a an Internet cafe.)"
+msgstr "(ne cochez cette case que si vous vous connectez depuis chez vous ou depuis votre propre ordinateur, ne la cochez pas si vous vous connectez depuis un lieu public comme par exemple un cyber-café.)"
+
+#: yd-prevent-comment-impersonation.php:68
+msgid "Thanks."
+msgstr "Merci."
+
